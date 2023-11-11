@@ -1,6 +1,11 @@
 h1 {
     font-weight: bold;
+<<<<<<< HEAD
     color: darkgreen;
     text-shadow: 2px 2px 8ppx lightgreen;
+    
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+=======
+    color: blue;
+>>>>>>> parent of 19a050d (update index.css)
 }
